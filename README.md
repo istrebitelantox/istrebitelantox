@@ -1,6 +1,6 @@
 <div id="socials1" align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There" alt="Header"/>
-  <img src="/github-metrics.svg" alt="Metrics" width="400">
+  <img src="/github-metrics.svg" alt="Metrics" width="600">
 </div>
 <div id="socials" align="center">
  <a href="https://t.me/istrebitel_antox">
