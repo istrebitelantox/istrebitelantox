@@ -1,6 +1,7 @@
 <div id="socials1" align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hi%20There" alt="Telegram"  border-radius=5px/>
-  <img src="https://github.com/istrebitelantox/photo/blob/main/IMG_20230309_155200.jpg" alt="Cats" height=450 border-radius=5px/>
+  <img src="/github-metrics.svg" alt="Metrics" width="400">
+  <img src="https://github.com/istrebitelantox/photo/blob/main/IMG_20230309_155200.jpg" alt="Cats" height=300/>
 </div>
 <div id="socials" align="center">
  <a href="https://t.me/istrebitel_antox">
